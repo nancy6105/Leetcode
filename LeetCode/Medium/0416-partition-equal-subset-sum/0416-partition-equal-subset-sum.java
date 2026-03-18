@@ -6,24 +6,25 @@ class Solution {
         }
         int n = nums.length;
         if(sum%2 != 0)return false;
-        int dp[][] = new int[n][sum+1];
+        int target = sum/2;
+        boolean dp[][] = new boolean[n][target+1];
         for(int i = 0;i<n;i++){
-            Arrays.fill(dp[i],-1);
+            dp[i][0] = true;
         }
-        return sol(nums.length-1,sum/2,nums,dp);
-    }
-    boolean sol(int idx,int k,int a[],int dp[][]){
-        if(k == 0)return true;
-        if(idx == 0)return a[0] == k;
-        if(dp[idx][k] != -1){
-            return dp[idx][k] == 1;
+        if(nums[0] <= target){
+            dp[0][nums[0]] = true;
         }
-        boolean nottake = sol(idx-1,k,a,dp);
-        boolean take = false;
-        if(k >= a[idx]){
-            take = sol(idx-1,k-a[idx],a,dp);
+        for(int i = 1;i<n;i++){
+            for(int j = 1;j<=target;j++){
+                boolean nottake = dp[i-1][j];
+                boolean take = false;
+                if(nums[i] <= j){
+                    take = dp[i-1][j-nums[i]];
+                }
+
+                dp[i][j] = take || nottake;
+            }
         }
-        dp[idx][k] = (take || nottake) ? 1:0;
-        return take || nottake;
+        return dp[n-1][target];
     }
 }
