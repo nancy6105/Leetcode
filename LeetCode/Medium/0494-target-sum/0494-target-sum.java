@@ -10,10 +10,14 @@ class Solution {
         if(target > s)return 0;
 
         if((s+target)%2 != 0)return 0;
+        int dp[][] = new int[n][k+1];
 
-        return sol(0,0,k,nums);
+        for(int i = 0;i<n;i++){
+            Arrays.fill(dp[i],-1);
+        }
+        return sol(0,0,k,nums,dp);
     }
-    int sol(int idx,int sum,int k,int a[]){
+    int sol(int idx,int sum,int k,int a[],int dp[][]){
         if(idx == a.length){
             if(sum == k)return 1;
             else{
@@ -21,12 +25,15 @@ class Solution {
             }
         }
 
-        int notpick = sol(idx+1,sum,k,a);
+        if(dp[idx][sum] != -1){
+            return dp[idx][sum];
+        }
+        int notpick = sol(idx+1,sum,k,a,dp);
         int pick = 0;
         if(sum + a[idx] <= k){
-            pick = sol(idx+1,sum+a[idx],k,a);
+            pick = sol(idx+1,sum+a[idx],k,a,dp);
         }
 
-        return notpick+pick;
+        return dp[idx][sum] = pick+notpick;
     }
 }
