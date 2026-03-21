@@ -7,9 +7,10 @@ class Solution {
         }
         int k = (target + s)/2;
         
-        if(target > s)return 0;
+        if(Math.abs(target) > s)return 0;
 
         if((s+target)%2 != 0)return 0;
+        
         int dp[][] = new int[n][k+1];
 
         for(int i = 0;i<n;i++){
