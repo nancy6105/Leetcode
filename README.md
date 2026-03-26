@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -148,4 +149,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 <!---LeetCode Topics End-->
