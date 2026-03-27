@@ -1,19 +1,38 @@
 class NumArray {
-    int prefix[];
+    int tree[];
+    int n;
     public NumArray(int[] nums) {
-        int n = nums.length;
-        prefix = new int[n];
-        prefix[0] = nums[0];
-
-        for(int i = 1;i<n;i++){
-            prefix[i] = prefix[i-1] + nums[i];
+        n = nums.length;
+        tree = new int[4*n];
+        build(nums,0,0,n-1);
+    }
+    private void build(int a[],int idx,int l,int r){
+        if(l == r){
+            tree[idx] = a[l];
+            return;
         }
+        int mid = (l+r)/2;
+        build(a,2*idx+1,l,mid);
+        build(a,2*idx+2,mid+1,r);
+        tree[idx] = tree[2*idx+1] + tree[2*idx+2];
     }
     
     public int sumRange(int left, int right) {
-        if(left == 0)return prefix[right];
-
-        return prefix[right] - prefix[left-1];
+        return query(0,0,n-1,left,right);
+    }
+    private int query(int idx,int l,int r,int ql,int qr){
+        if(qr < l || r < ql){
+            return 0;
+        }
+        if(ql <= l && r <= qr){
+            return tree[idx];
+        }
+        int mid = (l+r)/2;
+        
+        int left = query(2*idx+1,l,mid,ql,qr);
+        int right = query(2*idx+2,mid+1,r,ql,qr);
+        
+        return left+right;
     }
 }
 
