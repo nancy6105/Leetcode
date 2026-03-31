@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -77,6 +78,7 @@
 | ------- | ------- |
 | [0435-non-overlapping-intervals](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Heap (Priority Queue)
@@ -134,6 +136,7 @@
 | ------- | ------- |
 | [0322-coin-change](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,16 +146,19 @@
 | ------- | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
