@@ -59,6 +59,7 @@
 | [2906-construct-product-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Dynamic Programming
@@ -76,6 +77,7 @@
 | [1143-longest-common-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +102,7 @@
 | [2906-construct-product-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Prefix Sum
