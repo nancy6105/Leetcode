@@ -74,6 +74,7 @@
 | [0120-triangle](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0397-integer-replacement](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0397-integer-replacement/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
@@ -138,6 +139,7 @@
 | ------- | ------- |
 | [0055-jump-game](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
+| [0397-integer-replacement](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0397-integer-replacement/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 ## Two Pointers
@@ -217,5 +219,10 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0397-integer-replacement](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0397-integer-replacement/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0397-integer-replacement](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0397-integer-replacement/) | Medium |
 <!---LeetCode Topics End-->
