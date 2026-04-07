@@ -186,6 +186,7 @@
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -214,6 +215,7 @@
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2751-robot-collisions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 ## Memoization
