@@ -10,6 +10,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
+| [0412-fizz-buzz](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 ## Recursion
@@ -30,6 +31,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
+| [0412-fizz-buzz](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
@@ -219,6 +221,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
