@@ -183,6 +183,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -200,6 +201,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -212,12 +214,14 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2751-robot-collisions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
@@ -274,10 +278,15 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
