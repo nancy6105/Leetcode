@@ -182,12 +182,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0547-number-of-provinces](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -196,6 +198,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -264,4 +267,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
