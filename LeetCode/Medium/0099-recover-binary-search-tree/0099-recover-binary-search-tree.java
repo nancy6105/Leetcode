@@ -14,25 +14,30 @@
  * }
  */
 class Solution {
+    TreeNode first = null;
+    TreeNode second = null;
+    TreeNode prev = null;
     public void recoverTree(TreeNode root) {
-        ArrayList<Integer>arr = new ArrayList<>();
-        inorder(root,arr);
-        Collections.sort(arr);
-        fixTree(root,arr,new int[] {0});
+        sol(root);
+        int temp = first.val;
+        first.val = second.val;
+        second.val = temp;
     }
-
-    void fixTree(TreeNode root,ArrayList<Integer>arr,int idx[]){
+    void sol(TreeNode root){
         if(root == null)return;
-        fixTree(root.left,arr,idx);
-        root.val = arr.get(idx[0]++);
-        fixTree(root.right,arr,idx);
-    }
+        
+        sol(root.left);
+        if(prev!= null && prev.val > root.val){
+            if(first == null){
+                first = prev;
+                second = root;
+            }
+            else{
+                second = root;
+            }
+        }
+        prev = root;
 
-    void inorder(TreeNode root, ArrayList<Integer>arr){
-        if(root == null)return;
-
-        inorder(root.left,arr);
-        arr.add(root.val);
-        inorder(root.right,arr);
+        sol(root.right);
     }
 }
