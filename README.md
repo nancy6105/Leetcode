@@ -29,6 +29,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 ## String
@@ -82,6 +83,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -150,6 +152,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [3488-closest-equal-element-queries](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
