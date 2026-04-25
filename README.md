@@ -30,6 +30,7 @@
 | [0874-walking-robot-simulation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
+| [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
 | [2615-sum-of-distances](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
@@ -47,6 +48,7 @@
 | [1143-longest-common-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [2075-decode-the-slanted-ciphertext](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
@@ -86,6 +88,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
@@ -135,6 +138,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +258,7 @@
 | [0307-range-sum-query-mutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
+| [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +284,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
