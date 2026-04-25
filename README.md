@@ -33,6 +33,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2615-sum-of-distances](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
@@ -96,6 +97,7 @@
 | [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2615-sum-of-distances](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2751-robot-collisions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
@@ -169,6 +171,7 @@
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2615-sum-of-distances](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -318,6 +321,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0397-integer-replacement](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0397-integer-replacement/) | Medium |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
