@@ -26,6 +26,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0229-majority-element-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -68,6 +69,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0120-triangle/) | Medium |
 | [0134-gas-station](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
+| [0229-majority-element-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
@@ -132,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0229-majority-element-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -314,6 +317,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Union-Find
