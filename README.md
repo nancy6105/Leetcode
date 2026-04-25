@@ -61,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
+| [0015-3sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0055-jump-game](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -128,6 +129,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -192,6 +194,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
 | [0455-assign-cookies](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
