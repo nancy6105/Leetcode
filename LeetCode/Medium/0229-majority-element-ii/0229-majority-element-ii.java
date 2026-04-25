@@ -3,17 +3,15 @@ class Solution {
         List<Integer>res = new ArrayList<>();
 
         int n = nums.length;
+        HashMap<Integer,Integer> mp = new HashMap<>();
 
-        for(int i = 0; i < n; i++){
-            int cnt = 0;
-            for(int j = 0; j < n; j++){
-                if(nums[j] == nums[i]){
-                    cnt++;
-                }
-            }
+        for(int i : nums){
+            mp.put(i,mp.getOrDefault(i,0)+1);
+        }
 
-            if(cnt > n/3 && !res.contains(nums[i])){
-                res.add(nums[i]);
+        for(int key : mp.keySet()){
+            if(mp.get(key) > n/3){
+                res.add(key);
             }
         }
         return res;
