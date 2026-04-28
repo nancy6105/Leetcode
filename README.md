@@ -244,6 +244,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [0994-rotting-oranges](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
@@ -275,6 +276,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
+| [0785-is-graph-bipartite](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
@@ -363,11 +365,13 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0547-number-of-provinces](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
