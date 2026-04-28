@@ -20,18 +20,7 @@ class Solution {
             if((target-arr[i]) % x != 0){
                 return -1;
             }
-            if(arr[i] == target)continue;
-            while(arr[i] != target){
-                if(arr[i] < target){
-                    arr[i] += x;
-                    cnt++;
-                } 
-                else{
-                    arr[i] -= x;
-                    cnt++;
-
-                }
-            }
+            cnt += Math.abs(arr[i] - target) / x;
         }
         return cnt;
     }
