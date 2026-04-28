@@ -86,6 +86,7 @@
 | [0518-coin-change-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0931-minimum-falling-path-sum/) | Medium |
+| [0994-rotting-oranges](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
@@ -158,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0931-minimum-falling-path-sum/) | Medium |
+| [0994-rotting-oranges](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
@@ -225,6 +227,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [0994-rotting-oranges](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
