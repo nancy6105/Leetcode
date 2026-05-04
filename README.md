@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 | [0396-rotate-function](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
@@ -74,6 +75,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0015-3sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0048-rotate-image](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -177,6 +179,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0130-surrounded-regions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0542-01-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0733-flood-fill/) | Easy |
