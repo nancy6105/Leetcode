@@ -3,15 +3,19 @@ class Solution {
         int n = A.length;
         int[] ans = new int[n];
 
-        for(int i = 0; i<n; i++){
+        Set<Integer> stA = new HashSet<>();
+        Set<Integer> stB = new HashSet<>();
+        for(int i = 0;i<n;i++){
+            stA.add(A[i]);
+            stB.add(B[i]);
+
             int cur = 0;
-            for(int a = 0; a <= i; a++){
-                for(int b = 0; b <= i; b++){
-                    if(A[a] == B[b]){
-                        cur++;
-                    }
+            for(int eleA : stA){
+                if(stB.contains(eleA)){
+                    cur++;
                 }
             }
+
             ans[i] = cur;
         }
         return ans;
