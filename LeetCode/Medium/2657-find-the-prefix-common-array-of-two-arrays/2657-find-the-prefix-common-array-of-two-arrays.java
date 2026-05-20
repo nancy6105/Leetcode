@@ -3,21 +3,19 @@ class Solution {
         int n = A.length;
         int[] ans = new int[n];
 
-        Set<Integer> stA = new HashSet<>();
-        Set<Integer> stB = new HashSet<>();
+        int freq[] = new int[n+1];
+        int cnt = 0;
         for(int i = 0;i<n;i++){
-            stA.add(A[i]);
-            stB.add(B[i]);
+            
+            freq[A[i]] += 1;
+            if(freq[A[i]] == 2)cnt++;
 
-            int cur = 0;
-            for(int eleA : stA){
-                if(stB.contains(eleA)){
-                    cur++;
-                }
-            }
+            freq[B[i]] += 1;
+            if(freq[B[i]] == 2)cnt++;
 
-            ans[i] = cur;
+            ans[i] = cnt;
         }
+
         return ans;
     }
 }
