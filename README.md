@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0788-rotated-digits](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
@@ -37,6 +38,7 @@
 | [0127-word-ladder](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0169-majority-element](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -107,6 +109,7 @@
 | [0307-range-sum-query-mutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
@@ -405,6 +408,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 | [2069-walking-robot-simulation-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
@@ -535,4 +539,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
