@@ -138,6 +138,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1765-map-of-highest-peak](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
