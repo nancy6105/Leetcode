@@ -6,9 +6,15 @@ class Solution {
         int start = -1;
         int end = -1;
 
+        int dp[][] = new int[n][n];
+        
+        for(int row[] : dp){
+            Arrays.fill(row,-1);
+        }
+
         for(int i = 0;i<n;i++){
-            for(int j = 0;j<n;j++){
-                if(sol(i,j,s)){
+            for(int j = i;j<n;j++){
+                if(sol(i,j,s,dp)){
                     if(max < j-i+1){
                         max = j-i+1;
                         start = i;
@@ -19,30 +25,21 @@ class Solution {
         }
         return s.substring(start,end+1);
     }
-    boolean checkPalindrome(String s){
-        int i = 0;
-        int n = s.length();
-        int j = n-1;
 
-        while(i <= j){
-            if(s.charAt(i) != s.charAt(j)){
-                return false;
-            }
-            i++;
-            j--;
-        }
-
-        return true;
-    }
-
-    boolean sol(int i,int j,String s){
+    boolean sol(int i,int j,String s,int dp[][]){
         if(i >= j){
             return true;
         }
+        if(dp[i][j] != -1){
+            return dp[i][j] == 1;
+        }
         if(s.charAt(i) == s.charAt(j)){
-            return sol(i+1, j-1, s);
+            boolean ans = sol(i+1, j-1, s, dp);
+            dp[i][j] = (ans) ? 1 : 0;
+            return ans;
         }
         else{
+            dp[i][j] = 0;
             return false;
         }
     }
