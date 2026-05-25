@@ -77,6 +77,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1871-jump-game-vii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -88,6 +89,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1871-jump-game-vii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +232,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1871-jump-game-vii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -299,6 +302,7 @@
 | [0238-product-of-array-except-self](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2615-sum-of-distances](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
