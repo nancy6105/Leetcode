@@ -37,6 +37,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
+| [0139-word-break](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
@@ -68,6 +69,7 @@
 | [0072-edit-distance](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
 | [0127-word-ladder](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
+| [0139-word-break](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 | [0412-fizz-buzz](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
@@ -109,6 +111,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0130-surrounded-regions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0134-gas-station/) | Medium |
+| [0139-word-break](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0169-majority-element](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
@@ -203,6 +206,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0139-word-break](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
@@ -490,6 +494,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0139-word-break](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 | [0397-integer-replacement](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0397-integer-replacement/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
@@ -543,6 +548,7 @@
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Queue
