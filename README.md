@@ -117,6 +117,7 @@
 | [0139-word-break](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0162-find-peak-element](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
@@ -323,6 +324,7 @@
 | [0035-search-insert-position](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0162-find-peak-element](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
