@@ -1,48 +1,46 @@
 class Solution {
     public int search(int[] nums, int target) {
         int pivot = getPivot(nums);
-        int n = nums.length-1;
-
         if(pivot == 0){
-            return binarySearch(nums,0,n,target);
+            return binarySearch(nums,0,nums.length-1,target);
         }
         if(target >= nums[0] && target <= nums[pivot-1]){
             return binarySearch(nums,0,pivot-1,target);
         }
-        return binarySearch(nums,pivot,n,target);
+            return binarySearch(nums,pivot,nums.length-1,target);
     }
 
-    int binarySearch(int nums[],int low,int high,int target){
-        while(low <= high){
-            int mid = low+(high-low)/2;
-
-            if(target == nums[mid]){
+    int binarySearch(int arr[],int l,int r,int target){
+        while(l <= r){
+            int mid = l+(r-l)/2;
+            if(arr[mid] == target){
                 return mid;
             }
-            if(nums[mid] < target){
-                low = mid+1;
+            if(arr[mid] < target){
+                l = mid+1;
             }
             else{
-                high = mid-1;
+                r = mid-1;
             }
         }
         return -1;
     }
+    int getPivot(int arr[]){
+        int n = arr.length;
+        int l = 0;
+        int r = n-1;
 
-    public int getPivot(int nums[]){
-        int low = 0;
-        int high = nums.length-1;
+        while(l < r){
+            int mid = l + (r-l)/2;
 
-        while(low < high){
-            int mid = low + (high - low)/2;
-            if(nums[mid] > nums[high]){
-                low = mid+1;
+            if(arr[mid] > arr[r]){
+                l = mid+1;
             }
-
             else{
-                high = mid;
+
+                r = mid;
             }
         }
-        return low;
+        return l;
     }
 }
