@@ -3,23 +3,34 @@ class Solution {
         int n = nums1.length;
         int m = nums2.length;
 
-        int arr[] = new int[n+m];
+        int len = n+m;
+        int mid = len/2;
 
+        int merged[] = new int[len];
+        int i = 0;
+        int j = 0;
         int k = 0;
 
-        for(int num : nums1){
-            arr[k++] = num;
+        while(i < n && j < m){
+            if((nums1[i] < nums2[j])){
+                merged[k++] = nums1[i++];
+            }
+
+            else{
+                merged[k++] = nums2[j++];
+            }
         }
 
-        for(int num : nums2){
-            arr[k++] = num;
+        while(i < n){
+            merged[k++] = nums1[i++];
         }
 
-        Arrays.sort(arr);
-        int len = n+m;
+        while(j < m){
+            merged[k++] = nums2[j++];
+        }
 
-        if(len%2 == 1)return arr[len/2];
+        if(len%2 == 1)return merged[len/2];
 
-        return (arr[len/2]+arr[len/2 - 1])/2.0;
+        return (merged[len/2] + merged[len/2-1])/2.0;
     }
 }
