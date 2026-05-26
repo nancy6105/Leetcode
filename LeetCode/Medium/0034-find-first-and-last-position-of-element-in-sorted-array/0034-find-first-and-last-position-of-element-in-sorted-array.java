@@ -6,8 +6,15 @@ class Solution {
 
         for(int i = 0;i<n;i++){
             if(nums[i] == target){
-                if(first == -1)first = i;
+                first = i;
+                break;
+            }
+        }
+
+        for(int i = n-1;i>=0;i--){
+            if(nums[i] == target){
                 sec = i;
+                break;
             }
         }
         return new int[]{first,sec};
