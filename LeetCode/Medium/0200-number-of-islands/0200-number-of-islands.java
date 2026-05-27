@@ -1,52 +1,30 @@
 class Solution {
-
-    class Pair{
-        int first;
-        int second;
-
-        public Pair(int first,int second){
-            this.first = first;
-            this.second = second;
-        }
-    }
+    int n;
+    int m;
     public int numIslands(char[][] grid) {
-        int n = grid.length;
-        int m = grid[0].length;
-        boolean [][] visited = new boolean[n][m];
+        n = grid.length;
+        m = grid[0].length;
+
         int cnt = 0;
+        boolean visi[][] = new boolean[n][m];
         for(int i = 0;i<n;i++){
             for(int j = 0;j<m;j++){
-                if(grid[i][j] == '1' && !visited[i][j]){
-                    bfs(grid,i,j,visited);
-                    cnt++;
+                if(grid[i][j] == '1' && !visi[i][j]){
+                    dfs(i,j,grid,visi);
+                    cnt++;    
                 }
             }
         }
         return cnt;
     }
-    void bfs(char[][]grid,int i,int j,boolean visited[][]){
-        Queue<Pair>q = new LinkedList<>();
-        q.offer(new Pair(i,j));
-        visited[i][j] = true;
-        int n = grid.length;
-        int m = grid[0].length;
-
-        int dr[] = {-1,1,0,0};
-        int dc[] = {0,0,-1,1}; 
-        while(!q.isEmpty()){
-            Pair p = q.poll();
-            int row = p.first;
-            int col = p.second;
-
-            for(int k = 0;k<4;k++){
-                int nr = row + dr[k];
-                int nc = col + dc[k];
-
-                if(nr >= 0 && nc >= 0 && nr < n && nc < m && grid[nr][nc] == '1' && !visited[nr][nc]){
-                    visited[nr][nc] = true;
-                    q.offer(new Pair(nr,nc));
-                }
-            }
+    void dfs(int i,int j,char[][] grid,boolean visi[][]){
+        if(i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == '0' || visi[i][j]){
+            return;
         }
+        visi[i][j] = true;
+        dfs(i+1,j,grid,visi);
+        dfs(i-1,j,grid,visi);
+        dfs(i,j+1,grid,visi);
+        dfs(i,j-1,grid,visi);
     }
 }
