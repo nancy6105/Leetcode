@@ -9,7 +9,7 @@ class Solution {
         boolean visi[][] = new boolean[n][m];
         for(int i = 0;i<n;i++){
             for(int j = 0;j<m;j++){
-                if(grid[i][j] == '1' && !visi[i][j]){
+                if(grid[i][j] == '1'){
                     dfs(i,j,grid,visi);
                     cnt++;    
                 }
@@ -18,10 +18,10 @@ class Solution {
         return cnt;
     }
     void dfs(int i,int j,char[][] grid,boolean visi[][]){
-        if(i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == '0' || visi[i][j]){
+        if(i < 0 || j < 0 || i >= n || j >= m || grid[i][j] == '0'){
             return;
         }
-        visi[i][j] = true;
+        grid[i][j] = '0';
         dfs(i+1,j,grid,visi);
         dfs(i-1,j,grid,visi);
         dfs(i,j+1,grid,visi);
