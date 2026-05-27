@@ -401,6 +401,7 @@
 | [0207-course-schedule](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0542-01-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -438,6 +439,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -454,6 +456,7 @@
 | [0207-course-schedule](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0210-course-schedule-ii/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0547-number-of-provinces](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
@@ -476,6 +479,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0662-maximum-width-of-binary-tree/) | Medium |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0979-distribute-coins-in-binary-tree/) | Medium |
@@ -583,6 +587,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
