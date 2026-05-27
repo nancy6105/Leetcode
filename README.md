@@ -104,6 +104,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
+| [0046-permutations](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
@@ -409,6 +410,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0494-target-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 ## Tree
