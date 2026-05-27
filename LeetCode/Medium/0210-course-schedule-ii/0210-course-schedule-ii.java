@@ -1,37 +1,44 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        int V = numCourses;
 
-        for(int i = 0;i<numCourses;i++){
+        for(int i = 0;i<V;i++){
             adj.add(new ArrayList<>());
         }
 
-        for(int[] num : prerequisites){
-            int u = num[0];
-            int v = num[1];
+        for(int edge[] : prerequisites){
+            int u = edge[0];
+            int v = edge[1];
 
             adj.get(v).add(u);
         }
 
-        int indegree[] = new int[numCourses];
-        for(int i = 0;i<numCourses;i++){
+        int indegree[] = new int[V];
+
+        for(int i = 0;i<V;i++){
             for(int nei : adj.get(i)){
                 indegree[nei]++;
             }
         }
-        Queue<Integer>q = new LinkedList<>();
-        for(int i = 0;i<numCourses;i++){
+
+        Queue<Integer> q = new LinkedList<>();
+        for(int i = 0;i<V;i++){
             if(indegree[i] == 0){
                 q.offer(i);
             }
         }
 
-        ArrayList<Integer>res = new ArrayList<>();
-        while(!q.isEmpty()){
-            int n = q.poll();
-            res.add(n);
+        int topo[] = new int[V];
+        int cnt = 0;
+        int i = 0;
 
-            for(int nei : adj.get(n)){
+        while(!q.isEmpty()){
+            int node = q.poll();
+            topo[i++] = node;
+            cnt++;
+
+            for(int nei : adj.get(node)){
                 indegree[nei]--;
                 if(indegree[nei] == 0){
                     q.offer(nei);
@@ -39,13 +46,9 @@ class Solution {
             }
         }
 
-        int ans[] = new int[numCourses];
-        if(res.size() < numCourses){
-            return new int[]{};
+        if(cnt == V){
+            return topo;
         }
-        for(int i = 0;i<numCourses;i++){
-            ans[i] = res.get(i);
-        }
-        return ans;
+        return new int[]{};
     }
 }
