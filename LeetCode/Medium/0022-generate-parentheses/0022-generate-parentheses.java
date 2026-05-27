@@ -2,23 +2,27 @@ class Solution {
     public List<String> generateParenthesis(int n) {
         n = 2*n;
         List<String> res = new ArrayList<>();
-        sol(n,0,0,"",res);
+        StringBuilder curr = new StringBuilder();
+        sol(n,0,0,curr,res);
         return res;
     }
 
-    void sol(int n,int ob,int cb,String curr,List<String>res){
-        if(cb > ob){
-            return;
-        }
-        if(ob > n/2){
-            return;
-        }
+    void sol(int n,int ob,int cb,StringBuilder curr,List<String>res){
         if(ob+cb == n){
-            res.add(curr);
+            res.add(curr.toString());
             return;
         }
 
-        sol(n,ob+1,cb,curr+"(",res);
-        sol(n,ob,cb+1,curr+")",res);
+        if(ob < n/2){
+            curr.append('(');
+            sol(n,ob+1,cb,curr,res);
+            curr.deleteCharAt(curr.length()-1);
+        }
+
+        if(cb < ob){
+            curr.append(')');
+            sol(n,ob,cb+1,curr,res);
+            curr.deleteCharAt(curr.length()-1);
+        }
     }
 }
