@@ -70,6 +70,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
+| [0079-word-search](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
 | [0127-word-ladder](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
@@ -113,6 +114,7 @@
 | [0055-jump-game](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0063-unique-paths-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
@@ -285,6 +287,7 @@
 | [0048-rotate-image](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0221-maximal-square](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
 | [0542-01-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
@@ -420,6 +423,7 @@
 | [0051-n-queens](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
+| [0079-word-search](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0494-target-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -438,6 +442,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0099-recover-binary-search-tree/) | Medium |
 | [0130-surrounded-regions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0207-course-schedule](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0207-course-schedule/) | Medium |
