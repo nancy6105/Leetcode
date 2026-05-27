@@ -1,53 +1,49 @@
 class Solution {
-    public void solve(char[][] board) {
-        int n = board.length;
-        int m = board[0].length;
+    int n; 
+    int m;
 
-        boolean visited[][] = new boolean[n][m];
-        for(int i = 0;i<m;i++){
-            if(board[0][i] == 'O' && !visited[0][i]){
-                dfs(board,0,i,visited);
+    public void solve(char[][] board) {
+        n = board.length;
+        m = board[0].length;
+        
+        for(int j = 0;j<m;j++){
+            if(board[0][j] == 'O'){
+                dfs(0,j,board);
+            }
+            if(board[n-1][j] == 'O'){
+                dfs(n-1,j,board);
             }
         }
 
         for(int i = 1;i<n-1;i++){
-            if(board[i][m-1] == 'O' && !visited[i][m-1]){
-                dfs(board,i,m-1,visited);
+            if(board[i][0] == 'O'){
+                dfs(i,0,board);
+            }
+            if(board[i][m-1] == 'O'){
+                dfs(i,m-1,board);
             }
         }
-
-        for(int i = m-1;i>=0;i--){
-            if(board[n-1][i] == 'O' && !visited[n-1][i]){
-                dfs(board,n-1,i,visited);
-            }
-        }
-
-        for(int i = n-2;i>0;i--){
-            if(board[i][0] == 'O' && !visited[i][0]){
-                dfs(board,i,0,visited);
-            }
-        }
-
 
         for(int i = 0;i<n;i++){
             for(int j = 0;j<m;j++){
-                if(!visited[i][j] && board[i][j] == 'O'){
+                if(board[i][j] == 'O'){
                     board[i][j] = 'X';
+                }
+                if(board[i][j] == '#'){
+                    board[i][j] = 'O';
                 }
             }
         }
     }
+    void dfs(int i,int j,char board[][]){
+        if(i < 0 || j < 0 || i >= n || j >= m || board[i][j] != 'O'){
+            return;
+        }
 
-    void dfs(char[][] b,int i,int j,boolean visited[][]){
-        int n = b.length;
-        int m = b[0].length;
-
-        if(i < 0 || j < 0 || i >= n || j >= m || b[i][j] == 'X' || visited[i][j])return;
-
-        visited[i][j] = true;
-        dfs(b,i-1,j,visited);
-        dfs(b,i+1,j,visited);
-        dfs(b,i,j-1,visited);
-        dfs(b,i,j+1,visited);
+        board[i][j] = '#';
+        dfs(i+1,j,board);
+        dfs(i-1,j,board);
+        dfs(i,j-1,board);
+        dfs(i,j+1,board);
     }
 }
