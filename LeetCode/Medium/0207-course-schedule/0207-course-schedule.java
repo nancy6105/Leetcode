@@ -12,35 +12,37 @@ class Solution {
             adj.get(v).add(u);
         }
         int v = numCourses;
-        int visi[] = new int[v];
 
+        int indegree[] = new int[v];
         for(int i = 0;i<v;i++){
-            if(visi[i] == 0){
-                if(dfs(i,adj,visi)){
-                    return false;
+            for(int nei : adj.get(i)){
+                indegree[nei]++;
+            }
+        }
+
+        Queue<Integer> q = new LinkedList<>();
+        for(int i = 0;i<v;i++){
+            if(indegree[i] == 0){
+                q.add(i);
+            }
+        }
+
+        ArrayList<Integer> topo = new ArrayList<>();
+        while(!q.isEmpty()){
+            int node = q.poll();
+            topo.add(node);
+
+            for(int nei : adj.get(node)){
+                indegree[nei]--;
+                if(indegree[nei] == 0){
+                    q.offer(nei);
                 }
             }
         }
-        return true;
-    }
 
-    boolean dfs(int node, ArrayList<ArrayList<Integer>> adj, int visi[]){
-
-        if(visi[node] == 1){
+        if(topo.size() == v){
             return true;
         }
-
-        if(visi[node] == 2){
-            return false;
-        }
-
-        visi[node] = 1;
-        for(int nei : adj.get(node)){
-            if(dfs(nei,adj,visi)){
-                return true;
-            }
-        }
-        visi[node] = 2;
         return false;
     }
 }
