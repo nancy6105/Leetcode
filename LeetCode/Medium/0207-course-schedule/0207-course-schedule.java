@@ -27,11 +27,10 @@ class Solution {
             }
         }
 
-        ArrayList<Integer> topo = new ArrayList<>();
+        int cnt = 0;
         while(!q.isEmpty()){
             int node = q.poll();
-            topo.add(node);
-
+            cnt++;
             for(int nei : adj.get(node)){
                 indegree[nei]--;
                 if(indegree[nei] == 0){
@@ -40,7 +39,7 @@ class Solution {
             }
         }
 
-        if(topo.size() == v){
+        if(cnt == v){
             return true;
         }
         return false;
