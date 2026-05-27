@@ -415,6 +415,7 @@
 | [0039-combination-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0077-combinations/) | Medium |
 | [0494-target-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
 ## Tree
