@@ -14,24 +14,19 @@
  * }
  */
 class Solution {
+    List<Integer> arr;
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> res = new ArrayList<>();
-        if(root == null)return res;
-        Queue<TreeNode> q = new LinkedList<>();
-        q.offer(root);
-
-        while(!q.isEmpty()){
-            int size = q.size();
-            List<Integer> level = new ArrayList<>();
-            for(int i = 0;i<size;i++){
-                TreeNode node = q.poll();
-                level.add(node.val);
-                if(node.left != null)q.offer(node.left);
-                if(node.right != null)q.offer(node.right);
-            }
-            res.add(level.get(level.size()-1));
+        arr = new ArrayList<>();
+        dfs(root,0);
+        return arr;
+    }
+    void dfs(TreeNode root,int depth){
+        if(root == null)return;
+        if(depth == arr.size()){
+            arr.add(root.val);
         }
 
-        return res;
+        dfs(root.right,depth+1);
+        dfs(root.left,depth+1);
     }
 }
