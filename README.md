@@ -434,6 +434,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0099-recover-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -451,6 +452,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0099-recover-binary-search-tree/) | Medium |
 | [0130-surrounded-regions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
@@ -476,6 +478,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0099-recover-binary-search-tree/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -586,6 +589,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
