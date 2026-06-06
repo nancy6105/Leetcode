@@ -190,6 +190,7 @@
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2615-sum-of-distances](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -339,6 +340,7 @@
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2574-left-and-right-sum-differences](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2574-left-and-right-sum-differences/) | Easy |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2588-count-the-number-of-beautiful-subarrays/) | Medium |
 | [2615-sum-of-distances](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2906-construct-product-matrix/) | Medium |
