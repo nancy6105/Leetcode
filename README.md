@@ -24,6 +24,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2965-find-missing-and-repeated-values/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
@@ -494,6 +495,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -526,6 +528,7 @@
 | [1306-jump-game-iii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
