@@ -228,6 +228,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3488-closest-equal-element-queries](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3488-closest-equal-element-queries/) | Medium |
@@ -332,6 +333,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -366,6 +368,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3225-maximum-score-from-grid-operations](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/3225-maximum-score-from-grid-operations/) | Hard |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
@@ -500,6 +503,7 @@
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -704,6 +708,7 @@
 | [0785-is-graph-bipartite](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -757,6 +762,7 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
