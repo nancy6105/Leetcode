@@ -502,6 +502,7 @@
 | [1345-jump-game-iv](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1765-map-of-highest-peak](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1765-map-of-highest-peak/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -574,6 +575,7 @@
 | [1306-jump-game-iii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -697,6 +699,7 @@
 | [0785-is-graph-bipartite](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1020-number-of-enclaves/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -708,6 +711,7 @@
 | [0785-is-graph-bipartite](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0802-find-eventual-safe-states/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
