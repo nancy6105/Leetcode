@@ -138,6 +138,7 @@
 | [0063-unique-paths-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0064-minimum-path-sum/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
@@ -309,6 +310,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
@@ -469,6 +471,7 @@
 | [0015-3sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0031-next-permutation/) | Medium |
+| [0075-sort-colors](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
