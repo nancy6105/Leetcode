@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Math
@@ -40,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0025-reverse-nodes-in-k-group](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
