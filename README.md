@@ -828,4 +828,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
