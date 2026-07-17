@@ -1,12 +1,7 @@
 # Write your MySQL query statement below
-select e.name
-from Employee e
-join (
-    select managerId
-    from Employee
-    where managerId is not null
-    group by managerId
-    having count(*) >= 5
-)
-as filtered_table
-on e.id = filtered_table.managerId;
+select e1.name
+from Employee e1
+inner join employee e2
+on e1.id = e2.managerId
+group by e2.managerId
+having count(e2.managerId) >= 5;
