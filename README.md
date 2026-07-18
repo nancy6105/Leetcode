@@ -838,6 +838,7 @@
 | [0584-find-customer-referee](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0596-classes-with-at-least-5-students/) | Easy |
+| [0619-biggest-single-number](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1070-product-sales-analysis-iii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1070-product-sales-analysis-iii/) | Medium |
