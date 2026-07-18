@@ -831,6 +831,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0180-consecutive-numbers](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0180-consecutive-numbers/) | Medium |
 | [0197-rising-temperature](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
 | [0550-game-play-analysis-iv](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
