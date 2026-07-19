@@ -2,32 +2,17 @@ class Solution {
     int n;
     public int rob(int[] nums) {
         n = nums.length;
-        int dp[] = new int[n];
-        dp[0] = nums[0];
+        int prev0 = 0;
+        int prev1 = nums[0];
         for(int i = 1;i<n;i++){
             int pick = nums[i];
             if(i > 1){
-                pick += dp[i-2];
+                pick += prev0;
             }
-            int notpick = dp[i-1];
-
-            dp[i] = Math.max(pick,notpick); 
+            int notpick = prev1;
+            prev0 = prev1;
+            prev1 = Math.max(notpick,pick);
         }
-        return sol(n-1,nums,dp);
-    }
-    int sol(int idx,int arr[],int dp[]){
-        if(idx == 0){
-            return dp[idx] = arr[idx];
-        }
-        if(idx < 0){
-            return 0;
-        }
-        if(dp[idx] != -1){
-            return dp[idx];
-        }
-        int pick = arr[idx] + sol(idx-2,arr,dp);
-        int notpick = 0 + sol(idx-1,arr,dp);
-
-        return dp[idx] = Math.max(pick,notpick);
+        return prev1;
     }
 }
