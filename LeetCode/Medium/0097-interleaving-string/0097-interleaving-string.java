@@ -1,41 +1,32 @@
 class Solution {
+    int n;
+    int m;
     public boolean isInterleave(String s1, String s2, String s3) {
-        if(s1.length() + s2.length() != s3.length()) return false;
+        n = s1.length();
+        m = s2.length();
+        if(n + m != s3.length())return false;
+        boolean dp[][] = new boolean [n+1][m+1];
+        dp[0][0] = true;
+        for(int i = 0; i <= n; i++){
+            for(int j = 0; j <= m; j++){
 
-        int dp[][] = new int[101][101];
-        for(int rows[] : dp){
-            Arrays.fill(rows,-1);
+                if(i == 0 && j == 0){
+                    continue;
+                }
+                boolean froms1 = false;
+                boolean froms2 = false;
+
+                if(i > 0 && dp[i-1][j] && s1.charAt(i-1) == s3.charAt(i+j-1)){
+                    froms1 = true; 
+                }
+
+                if(j > 0 && dp[i][j-1] && s2.charAt(j-1) == s3.charAt(i+j-1)){
+                    froms2 = true; 
+                }
+
+                dp[i][j] = froms1 || froms2;
+            }
         }
-
-        int i = 0;
-        int j = 0;
-        
-        return sol(i,j,s1,s2,s3,dp);
+        return dp[n][m];
     }
-    boolean sol(int i, int j, String s1, String s2, String s3,int dp[][]){
-        int n = s1.length();
-        int m = s2.length();
-        int N = n+m;
-        if(i == n && j == m){
-            return true;
-        }
-
-        if(dp[i][j] != -1){
-            return dp[i][j] == 1;
-        }
-
-        boolean res = false;
-        if(i < n && s1.charAt(i) == s3.charAt(i+j)){
-            res = sol(i+1,j,s1,s2,s3,dp);
-        }
-        if(res){
-            return res;
-        }
-        if(j < m && s2.charAt(j) == s3.charAt(i+j)){
-            res = sol(i,j+1,s1,s2,s3,dp);
-        }
-
-        dp[i][j] = (res) ? 1 : 0;
-        return res;
-    }   
 }
