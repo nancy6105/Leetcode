@@ -5,31 +5,28 @@ class Solution {
 
         int dp[][] = new int[n][amount+1];
         
-        for(int i = 0;i<n;i++){
-            Arrays.fill(dp[i],-1);
-        }
-
-        int ans = sol(n-1,coins,amount,dp);
-
-        return ans >= (int)1e9 ? -1 : ans;
-    }
-    int sol(int idx,int arr[],int amt,int dp[][]){
-        if(idx == 0){
-            if(amt%arr[idx] == 0){
-                return amt/arr[idx];
+        for(int amt = 0;amt<=amount;amt++){
+            if(amt%coins[0] == 0){
+                dp[0][amt] = amt/coins[0];
             }
             else{
-                return (int) 1e9;
+                dp[0][amt] = (int)1e9;
             }
         }
-        if(dp[idx][amt] != -1)return dp[idx][amt];
 
-        int notpick = 0 + sol(idx-1,arr,amt,dp);
-        int pick = Integer.MAX_VALUE;
-        if(arr[idx] <= amt){
-            pick = 1 + sol(idx,arr,amt-arr[idx],dp);
+        for(int i = 1;i<n;i++){
+            for(int amt = 0;amt<=amount;amt++){
+                int notpick = 0 + dp[i-1][amt];
+                int pick = Integer.MAX_VALUE;
+                if(amt >= coins[i]){
+                    pick = 1 + dp[i][amt - coins[i]];
+                }
+
+                dp[i][amt] = Math.min(notpick,pick);
+            }
         }
+        int ans = dp[n-1][amount];
 
-        return dp[idx][amt] = Math.min(pick,notpick);
+        return ans >= (int)1e9 ? -1 : ans;
     }
 }
