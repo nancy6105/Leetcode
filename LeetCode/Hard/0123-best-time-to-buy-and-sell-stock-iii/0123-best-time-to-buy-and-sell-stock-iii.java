@@ -2,7 +2,7 @@ class Solution {
     int n;
     public int maxProfit(int[] prices) {
        n = prices.length;
-       int dp[][][] = new int[n][2][3];
+       int dp[][][] = new int[n+1][2][3];
        for(int i = 0;i<n;i++){
         for(int j = 0;j<2;j++){
             Arrays.fill(dp[i][j],-1);
