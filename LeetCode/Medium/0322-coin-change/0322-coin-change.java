@@ -1,31 +1,35 @@
 class Solution {
+    int n;
     public int coinChange(int[] coins, int amount) {
-        int n = coins.length;
-        int prev[] = new int[amount+1];
-        for(int amt = 0; amt <= amount; amt++){
-            if(amt%coins[0] == 0){
-                prev[amt] = amt/coins[0];
+        n = coins.length;
+
+        int dp[][] = new int[n][amount+1];
+        
+        for(int i = 0;i<n;i++){
+            Arrays.fill(dp[i],-1);
+        }
+
+        int ans = sol(n-1,coins,amount,dp);
+
+        return ans >= (int)1e9 ? -1 : ans;
+    }
+    int sol(int idx,int arr[],int amt,int dp[][]){
+        if(idx == 0){
+            if(amt%arr[idx] == 0){
+                return amt/arr[idx];
             }
             else{
-                prev[amt] = (int)1e9;
+                return (int) 1e9;
             }
         }
+        if(dp[idx][amt] != -1)return dp[idx][amt];
 
-        for(int i = 1; i<n; i++){
-            int curr[] = new int[amount+1];
-            for(int amt = 0; amt <= amount; amt++){
-                int notpick = prev[amt];
-                int pick = (int)1e9;
-                if(coins[i] <= amt){
-                    pick = 1 + curr[amt-coins[i]];
-                }
-
-                curr[amt] = Math.min(pick,notpick);
-            }
-            prev = curr;
+        int notpick = 0 + sol(idx-1,arr,amt,dp);
+        int pick = Integer.MAX_VALUE;
+        if(arr[idx] <= amt){
+            pick = 1 + sol(idx,arr,amt-arr[idx],dp);
         }
 
-        int ans = prev[amount];
-        return ans >= (int)1e9 ? -1 : ans;
+        return dp[idx][amt] = Math.min(pick,notpick);
     }
 }
