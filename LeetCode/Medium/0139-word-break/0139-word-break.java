@@ -3,9 +3,19 @@ class Solution {
     public boolean wordBreak(String s, List<String> wordDict) {
         HashSet<String> st = new HashSet<>(wordDict);
         n = s.length();
-        int dp[] = new int[n];
-        Arrays.fill(dp,-1);
-        return sol(0,s,st,dp);
+        int dp[] = new int[n+1];
+        dp[n] = 1;
+        for(int idx = n-1; idx >= 0; idx--){
+            for(int i = idx;i<n;i++){
+                String sub = s.substring(idx,i+1);
+                if(st.contains(sub)){
+                    if(dp[i+1] == 1){
+                        dp[idx] = 1;
+                    }
+                }
+            }
+        }
+        return dp[0] == 1;
     }
     boolean sol(int idx,String s,HashSet<String>st,int dp[]){
 
