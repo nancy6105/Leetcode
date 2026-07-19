@@ -1,52 +1,35 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int n = nums.length;
-        int first = findFirst(nums,target);
-        int last = findLast(nums,target);
+        int first = bs(nums, target, true);
+        int last = bs(nums, target, false);
 
         return new int[]{first,last};
     }
 
-    int findFirst(int nums[],int target){
-        int n = nums.length;
+    int bs(int arr[],int t,boolean flag){
         int l = 0;
+        int n = arr.length;
         int r = n-1;
-        int ans = -1;
-        while(l <= r){
-            int mid = l+(r-l)/2;
-            if(nums[mid] == target){
-                ans = mid;
-                r = mid-1;
-            }
-            else if(nums[mid] < target){
-                l = mid+1;
-            }
-            else{
-                r = mid-1;
-            }
-        }
-        return ans;
-    }
-
-    int findLast(int nums[], int target){
-        int n = nums.length;
-        int l = 0;
-        int r = n-1;
-
         int ans = -1;
         while(l <= r){
             int mid = l + (r-l)/2;
-            if(nums[mid] == target){
+            if(arr[mid] == t){
                 ans = mid;
-                l = mid+1;
+                if(flag){
+                    r = mid-1;
+                }
+                else{
+                    l = mid+1;
+                }
             }
-            else if(nums[mid] < target){
-                l = mid+1;
-            }
-            else{
+            else if(t < arr[mid]){
                 r = mid-1;
             }
+            else{
+                l = mid+1;
+            }   
         }
+
         return ans;
     }
 }
