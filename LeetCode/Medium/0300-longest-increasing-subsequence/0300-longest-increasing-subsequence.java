@@ -2,17 +2,19 @@ class Solution {
     int n;
     public int lengthOfLIS(int[] nums) {
         n = nums.length;
-        int dp[][] = new int[n+1][n+1];
+        int next[] = new int[n+1];
         for(int idx = n-1; idx >= 0; idx--){
+            int curr[] = new int[n+1];
             for(int prev = idx-1; prev >= -1; prev--){
-                int notpick = dp[idx+1][prev+1];
+                int notpick = next[prev+1];
                 int pick = 0;
                 if(prev == -1 || nums[prev] < nums[idx]){
-                    pick = 1 + dp[idx+1][idx+1];
+                    pick = 1 + next[idx+1];
                 }
-                dp[idx][prev+1] = Math.max(pick,notpick);
+                curr[prev+1] = Math.max(pick,notpick);
             }
+            next = curr;
         }
-        return dp[0][-0];
+        return next [0];
     }
 }
