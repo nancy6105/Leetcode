@@ -851,6 +851,7 @@
 | [1164-product-price-at-a-given-date](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1174-immediate-food-delivery-ii/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1193-monthly-transactions-i/) | Medium |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1280-students-and-examinations/) | Easy |
