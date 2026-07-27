@@ -99,6 +99,7 @@
 | [0139-word-break](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 | [0412-fizz-buzz](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -293,6 +294,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0494-target-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
