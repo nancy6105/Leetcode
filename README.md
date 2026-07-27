@@ -100,6 +100,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 | [0412-fizz-buzz](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -298,6 +299,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0518-coin-change-ii/) | Medium |
 | [0542-01-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0542-01-matrix/) | Medium |
+| [0583-delete-operation-for-two-strings](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0788-rotated-digits](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0788-rotated-digits/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0931-minimum-falling-path-sum/) | Medium |
