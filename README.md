@@ -41,6 +41,7 @@
 | [3783-mirror-distance-of-an-integer](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [3959-check-good-integer](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3959-check-good-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -724,6 +725,7 @@
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3959-check-good-integer](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3959-check-good-integer/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
