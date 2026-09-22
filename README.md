@@ -90,6 +90,7 @@
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3842-toggle-light-bulbs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -274,6 +275,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3741-minimum-distance-between-three-equal-elements-ii/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/4010-maximize-pair-strength-using-gcd/) | Easy |
@@ -366,6 +368,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3842-toggle-light-bulbs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -727,6 +730,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3842-toggle-light-bulbs/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3959-check-good-integer](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3959-check-good-integer/) | Easy |
 ## Memoization
