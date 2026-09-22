@@ -42,6 +42,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3959-check-good-integer](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3959-check-good-integer/) | Easy |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +276,7 @@
 | [3838-weighted-word-mapping](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -665,6 +667,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -838,6 +841,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/4010-maximize-pair-strength-using-gcd/) | Easy |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
