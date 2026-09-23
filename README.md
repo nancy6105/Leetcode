@@ -69,6 +69,7 @@
 | [1345-jump-game-iv](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
@@ -134,6 +135,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1871-jump-game-vii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 ## Array
 | Problem Name | Difficulty |
@@ -213,6 +215,7 @@
 | [1512-number-of-good-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1672-richest-customer-wealth/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -429,6 +432,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1871-jump-game-vii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
@@ -457,6 +461,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2540-minimum-common-value/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2812-find-the-safest-path-in-a-grid/) | Medium |
