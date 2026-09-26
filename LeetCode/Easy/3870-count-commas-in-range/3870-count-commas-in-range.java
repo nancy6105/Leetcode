@@ -4,11 +4,7 @@ class Solution {
             return 0;
         }
 
-        int total = 0;
-        for(int i = 1000; i <= n; i++){
-            total++;
-        }
 
-        return total;
+        return n - 1000 + 1;
     }
 }
