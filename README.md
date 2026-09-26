@@ -130,6 +130,7 @@
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
@@ -737,6 +738,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2553-separate-the-digits-in-an-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2553-separate-the-digits-in-an-array/) | Easy |
 | [2751-robot-collisions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3498-reverse-degree-of-a-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/3838-weighted-word-mapping/) | Easy |
