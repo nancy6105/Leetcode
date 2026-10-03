@@ -102,6 +102,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0072-edit-distance](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0079-word-search](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
@@ -298,6 +299,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0045-jump-game-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
@@ -700,6 +702,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -931,6 +934,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
