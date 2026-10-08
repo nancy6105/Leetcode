@@ -114,6 +114,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0796-rotate-string/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1092-shortest-common-supersequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
@@ -706,6 +707,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -935,6 +937,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
