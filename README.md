@@ -123,6 +123,7 @@
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
@@ -511,6 +512,7 @@
 | [0397-integer-replacement](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0397-integer-replacement/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -710,6 +712,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2751-robot-collisions](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/2751-robot-collisions/) | Hard |
@@ -939,5 +942,6 @@
 | [0032-longest-valid-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
