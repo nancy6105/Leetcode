@@ -231,6 +231,7 @@
 | [1306-jump-game-iii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1345-jump-game-iv/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
@@ -383,6 +384,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1340-jump-game-v](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1833-maximum-ice-cream-bars/) | Medium |
@@ -491,6 +493,7 @@
 | [0162-find-peak-element](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0162-find-peak-element/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -554,6 +557,7 @@
 | [0189-rotate-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0455-assign-cookies](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
