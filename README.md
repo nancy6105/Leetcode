@@ -236,6 +236,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -414,6 +415,7 @@
 | [0743-network-delay-time](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
@@ -761,6 +763,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [2353-design-a-food-rating-system](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2353-design-a-food-rating-system/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -769,6 +772,7 @@
 | [0657-robot-return-to-origin](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0657-robot-return-to-origin/) | Easy |
 | [0867-transpose-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0867-transpose-matrix/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0874-walking-robot-simulation/) | Medium |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1914-cyclically-rotating-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2075-decode-the-slanted-ciphertext/) | Medium |
