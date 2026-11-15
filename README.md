@@ -27,6 +27,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1137-n-th-tribonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/2965-find-missing-and-repeated-values/) | Easy |
@@ -236,6 +237,7 @@
 | [1463-cherry-pickup-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1512-number-of-good-pairs/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1631-path-with-minimum-effort/) | Medium |
@@ -359,6 +361,7 @@
 | [1340-jump-game-v](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1340-jump-game-v/) | Hard |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/1463-cherry-pickup-ii/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1871-jump-game-vii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1871-jump-game-vii/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -472,6 +475,7 @@
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
