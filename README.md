@@ -13,6 +13,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
