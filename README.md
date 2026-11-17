@@ -997,4 +997,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0193-valid-phone-numbers](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0193-valid-phone-numbers/) | Easy |
+| [0195-tenth-line](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0195-tenth-line/) | Easy |
 <!---LeetCode Topics End-->
