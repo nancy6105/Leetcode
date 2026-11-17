@@ -16,6 +16,7 @@
 | [0009-palindrome-number](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0171-excel-sheet-column-number](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
@@ -115,6 +116,7 @@
 | [0097-interleaving-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
 | [0127-word-ladder](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0127-word-ladder/) | Hard |
 | [0139-word-break](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
+| [0171-excel-sheet-column-number](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
 | [0412-fizz-buzz](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
