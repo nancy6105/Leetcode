@@ -993,4 +993,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0193-valid-phone-numbers](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0193-valid-phone-numbers/) | Easy |
 <!---LeetCode Topics End-->
