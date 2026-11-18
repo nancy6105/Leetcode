@@ -739,6 +739,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0307-range-sum-query-mutable/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
@@ -750,6 +751,7 @@
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0173-binary-search-tree-iterator](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0173-binary-search-tree-iterator/) | Medium |
+| [0225-implement-stack-using-queues](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/1021-remove-outermost-parentheses/) | Easy |
@@ -887,6 +889,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0933-number-of-recent-calls](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0933-number-of-recent-calls/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
