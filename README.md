@@ -207,6 +207,7 @@
 | [0200-number-of-islands](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0215-kth-largest-element-in-an-array/) | Medium |
 | [0221-maximal-square](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0221-maximal-square/) | Medium |
+| [0228-summary-ranges](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0228-summary-ranges/) | Easy |
 | [0229-majority-element-ii](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0238-product-of-array-except-self/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
