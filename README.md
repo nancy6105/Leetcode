@@ -20,6 +20,7 @@
 | [0171-excel-sheet-column-number](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0171-excel-sheet-column-number/) | Easy |
 | [0189-rotate-array](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0241-different-ways-to-add-parentheses](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0241-different-ways-to-add-parentheses/) | Medium |
+| [0263-ugly-number](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0263-ugly-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0380-insert-delete-getrandom-o1/) | Medium |
 | [0396-rotate-function](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Medium/0396-rotate-function/) | Medium |
 | [0412-fizz-buzz](https://github.com/nancy6105/Leetcode/tree/main/LeetCode/Easy/0412-fizz-buzz/) | Easy |
